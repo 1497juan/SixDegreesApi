@@ -1,0 +1,16 @@
+C:\Users\1497j\RiderProjects\SixDegreesApi\SixDegrees.AccesoDatos\bin\Debug\net6.0\SixDegrees.AccesoDatos.deps.json
+C:\Users\1497j\RiderProjects\SixDegreesApi\SixDegrees.AccesoDatos\bin\Debug\net6.0\SixDegrees.AccesoDatos.dll
+C:\Users\1497j\RiderProjects\SixDegreesApi\SixDegrees.AccesoDatos\bin\Debug\net6.0\SixDegrees.AccesoDatos.pdb
+C:\Users\1497j\RiderProjects\SixDegreesApi\SixDegrees.AccesoDatos\bin\Debug\net6.0\SixDegrees.Entidades.dll
+C:\Users\1497j\RiderProjects\SixDegreesApi\SixDegrees.AccesoDatos\bin\Debug\net6.0\SixDegrees.Entidades.pdb
+C:\Users\1497j\RiderProjects\SixDegreesApi\SixDegrees.AccesoDatos\obj\Debug\net6.0\SixDegrees.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\1497j\RiderProjects\SixDegreesApi\SixDegrees.AccesoDatos\obj\Debug\net6.0\SixDegrees.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1497j\RiderProjects\SixDegreesApi\SixDegrees.AccesoDatos\obj\Debug\net6.0\SixDegrees.AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\1497j\RiderProjects\SixDegreesApi\SixDegrees.AccesoDatos\obj\Debug\net6.0\SixDegrees.AccesoDatos.AssemblyInfo.cs
+C:\Users\1497j\RiderProjects\SixDegreesApi\SixDegrees.AccesoDatos\obj\Debug\net6.0\SixDegrees.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\1497j\RiderProjects\SixDegreesApi\SixDegrees.AccesoDatos\obj\Debug\net6.0\SixDegrees.AccesoDatos.sourcelink.json
+C:\Users\1497j\RiderProjects\SixDegreesApi\SixDegrees.AccesoDatos\obj\Debug\net6.0\SixDegre.A06ABE7F.Up2Date
+C:\Users\1497j\RiderProjects\SixDegreesApi\SixDegrees.AccesoDatos\obj\Debug\net6.0\SixDegrees.AccesoDatos.dll
+C:\Users\1497j\RiderProjects\SixDegreesApi\SixDegrees.AccesoDatos\obj\Debug\net6.0\refint\SixDegrees.AccesoDatos.dll
+C:\Users\1497j\RiderProjects\SixDegreesApi\SixDegrees.AccesoDatos\obj\Debug\net6.0\SixDegrees.AccesoDatos.pdb
+C:\Users\1497j\RiderProjects\SixDegreesApi\SixDegrees.AccesoDatos\obj\Debug\net6.0\ref\SixDegrees.AccesoDatos.dll

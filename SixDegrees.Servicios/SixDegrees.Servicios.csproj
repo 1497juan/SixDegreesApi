@@ -11,10 +11,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\SixDegrees.Entidades\SixDegrees.Entidades.csproj" />
     <ProjectReference Include="..\SixDegrees.Negocio\SixDegrees.Negocio.csproj" />
   </ItemGroup>

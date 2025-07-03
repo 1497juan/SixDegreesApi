@@ -1,0 +1,12 @@
+C:\Users\1497j\RiderProjects\SixDegreesApi\SixDegrees.Entidades\bin\Debug\net6.0\SixDegrees.Entidades.deps.json
+C:\Users\1497j\RiderProjects\SixDegreesApi\SixDegrees.Entidades\bin\Debug\net6.0\SixDegrees.Entidades.dll
+C:\Users\1497j\RiderProjects\SixDegreesApi\SixDegrees.Entidades\bin\Debug\net6.0\SixDegrees.Entidades.pdb
+C:\Users\1497j\RiderProjects\SixDegreesApi\SixDegrees.Entidades\obj\Debug\net6.0\SixDegrees.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1497j\RiderProjects\SixDegreesApi\SixDegrees.Entidades\obj\Debug\net6.0\SixDegrees.Entidades.AssemblyInfoInputs.cache
+C:\Users\1497j\RiderProjects\SixDegreesApi\SixDegrees.Entidades\obj\Debug\net6.0\SixDegrees.Entidades.AssemblyInfo.cs
+C:\Users\1497j\RiderProjects\SixDegreesApi\SixDegrees.Entidades\obj\Debug\net6.0\SixDegrees.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\1497j\RiderProjects\SixDegreesApi\SixDegrees.Entidades\obj\Debug\net6.0\SixDegrees.Entidades.sourcelink.json
+C:\Users\1497j\RiderProjects\SixDegreesApi\SixDegrees.Entidades\obj\Debug\net6.0\SixDegrees.Entidades.dll
+C:\Users\1497j\RiderProjects\SixDegreesApi\SixDegrees.Entidades\obj\Debug\net6.0\refint\SixDegrees.Entidades.dll
+C:\Users\1497j\RiderProjects\SixDegreesApi\SixDegrees.Entidades\obj\Debug\net6.0\SixDegrees.Entidades.pdb
+C:\Users\1497j\RiderProjects\SixDegreesApi\SixDegrees.Entidades\obj\Debug\net6.0\ref\SixDegrees.Entidades.dll
